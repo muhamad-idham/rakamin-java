@@ -12,6 +12,8 @@ public class Fungsi {
         Namaku.namaSaya("Ujang");
         Namaku.namaSaya("Asep");
 
+        Namaku.namaSaya("Dhama");
+
         tambah(x,y);
         tambah(x,z);
         tambah(y,z);
